@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
 
         println("İlk değişikliği yapıyorum!")
+        println("İkinci değişiklik")
     }
 }
